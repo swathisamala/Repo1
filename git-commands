@@ -1,6 +1,5 @@
 hello all
 
-there is some changes in code
 touch file
 
 git status
@@ -10,7 +9,3 @@ git add file
 git commit -m "sample" file
 
 git push
-
-
-the end.......!!!!!
-
